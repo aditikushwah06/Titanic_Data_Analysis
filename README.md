@@ -19,8 +19,6 @@ This project analyzes the famous Titanic dataset and builds a predictive model t
 The dataset used is the classic Titanic dataset available from [Kaggle](https://www.kaggle.com/competitions/titanic/data).
 
 - `train.csv`: Training data with labels (Survived column)
-- `test.csv`: Test data without labels
-
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
